@@ -1,0 +1,1000 @@
+  352  shenjinqi 2019/07/09 12:31:10 curl http://127.0.0.1:5601
+  353  shenjinqi 2019/07/09 12:31:11 curl http://127.0.0.1:5601
+  354  shenjinqi 2019/07/09 12:31:12 curl http://127.0.0.1:5601
+  355  shenjinqi 2019/07/09 12:31:13 curl http://127.0.0.1:5601
+  356  shenjinqi 2019/07/09 12:31:33 sudo docker ps
+  357  shenjinqi 2019/07/09 12:31:56 sudo docker logs 9970a0f439d2>kibana
+  358  shenjinqi 2019/07/09 12:32:16 sudo docker logs f95451e59a3b>logstash
+  359  shenjinqi 2019/07/09 12:32:33 ls
+  360  shenjinqi 2019/07/09 12:32:39 vi kibana 
+  361  shenjinqi 2019/07/09 12:34:19 grep "Status changed from* *
+  362  shenjinqi 2019/07/09 12:34:31 grep "Status changed from" kibana 
+  363  shenjinqi 2019/07/09 12:34:38 grep "Status changed from" kibana 
+  364  shenjinqi 2019/07/09 12:34:41 grep "Status changed from" kibana 
+  365  shenjinqi 2019/07/09 12:35:00 grep "Status changed from" logstash 
+  366  shenjinqi 2019/07/09 12:35:05 vi logstash 
+  367  shenjinqi 2019/07/09 12:35:34 sudo docker-compose down
+  368  shenjinqi 2019/07/09 12:36:01 vi docker-compose.yml 
+  369  shenjinqi 2019/07/09 12:40:56 vi docker-compose.yml 
+  370  shenjinqi 2019/07/09 12:41:30 docker-compose 
+  371  shenjinqi 2019/07/09 12:41:41 ls
+  372  shenjinqi 2019/07/09 12:41:51 vi docker-compose_0709.yml
+  373  shenjinqi 2019/07/09 12:50:09 sudo docker-compose up -d -f docker-compose_0709.yml
+  374  shenjinqi 2019/07/09 12:50:33 docker-compose 
+  375  shenjinqi 2019/07/09 12:50:58 sudo docker-compose -f docker-compose_0709.ymlup -d
+  376  shenjinqi 2019/07/09 12:51:03 sudo docker-compose -f docker-compose_0709.yml up -d
+  377  shenjinqi 2019/07/09 12:51:23 vi docker-compose_0709.yml
+  378  shenjinqi 2019/07/09 12:53:39 sudo docker-compose -f docker-compose_0709.yml up -d
+  379  shenjinqi 2019/07/09 12:53:49 vi docker-compose_0709.yml
+  380  shenjinqi 2019/07/09 12:54:13 sudo docker-compose -f docker-compose_0709.yml up -d
+  381  shenjinqi 2019/07/09 12:54:30 history
+  382  shenjinqi 2019/07/09 12:54:36 curl http://127.0.0.1:9200
+  383  shenjinqi 2019/07/09 12:54:39 curl http://127.0.0.1:9200
+  384  shenjinqi 2019/07/09 12:54:41 curl http://127.0.0.1:9200
+  385  shenjinqi 2019/07/09 12:54:43 curl http://127.0.0.1:9200
+  386  shenjinqi 2019/07/09 12:54:45 curl http://127.0.0.1:9200
+  387  shenjinqi 2019/07/09 12:54:46 curl http://127.0.0.1:9200
+  388  shenjinqi 2019/07/09 12:54:47 curl http://127.0.0.1:9200
+  389  shenjinqi 2019/07/09 12:54:48 curl http://127.0.0.1:9200
+  390  shenjinqi 2019/07/09 12:54:49 curl http://127.0.0.1:9200
+  391  shenjinqi 2019/07/09 12:54:50 curl http://127.0.0.1:9200
+  392  shenjinqi 2019/07/09 12:54:51 curl http://127.0.0.1:9200
+  393  shenjinqi 2019/07/09 12:54:51 curl http://127.0.0.1:9200
+  394  shenjinqi 2019/07/09 12:54:52 curl http://127.0.0.1:9200
+  395  shenjinqi 2019/07/09 12:54:54 curl http://127.0.0.1:9200
+  396  shenjinqi 2019/07/09 12:54:57 curl http://127.0.0.1:9200
+  397  shenjinqi 2019/07/09 12:54:58 curl http://127.0.0.1:9200
+  398  shenjinqi 2019/07/09 12:55:04 curl http://127.0.0.1:5601
+  399  shenjinqi 2019/07/09 12:55:08 curl http://127.0.0.1:9200
+  400  shenjinqi 2019/07/09 12:55:18 sudo docker ps
+  401  shenjinqi 2019/07/09 12:55:36 sudo docker logs dcad2ea59eb1
+  402  shenjinqi 2019/07/09 12:55:46 sudo docker logs dcad2ea59eb1
+  403  shenjinqi 2019/07/09 12:55:53 sudo docker logs dcad2ea59eb1
+  404  shenjinqi 2019/07/09 12:55:55 sudo docker logs dcad2ea59eb1
+  405  shenjinqi 2019/07/09 12:55:55 sudo docker logs dcad2ea59eb1
+  406  shenjinqi 2019/07/09 12:55:57 sudo docker logs dcad2ea59eb1
+  407  shenjinqi 2019/07/09 12:56:07 sudo docker logs dcad2ea59eb1
+  408  shenjinqi 2019/07/09 12:56:09 sudo docker logs dcad2ea59eb1
+  409  shenjinqi 2019/07/09 12:56:17 sudo docker logs dcad2ea59eb1>es
+  410  shenjinqi 2019/07/09 12:56:20 vi es
+  411  shenjinqi 2019/07/09 12:58:17 sudo docker logs dcad2ea59eb1>es
+  412  shenjinqi 2019/07/09 12:58:20 vi es
+  413  shenjinqi 2019/07/09 12:58:42 cd ..
+  414  shenjinqi 2019/07/09 12:58:43 ls
+  415  shenjinqi 2019/07/09 12:58:47 cd data/
+  416  shenjinqi 2019/07/09 12:58:56 mkdir -p elasticsearch/data
+  417  shenjinqi 2019/07/09 12:58:57 ls
+  418  shenjinqi 2019/07/09 12:59:01 ls elasticsearch/data/
+  419  shenjinqi 2019/07/09 12:59:21 sudo docker-compose down
+  420  shenjinqi 2019/07/09 12:59:44 more docker-compose_0709.yml 
+  421  shenjinqi 2019/07/09 12:59:55 sudo docker-compose -f docker-compose_0709.yml up -d
+  422  shenjinqi 2019/07/09 13:00:14 cd ../debug/
+  423  shenjinqi 2019/07/09 13:00:17 history
+  424  shenjinqi 2019/07/09 13:00:23  curl http://127.0.0.1:9200
+  425  shenjinqi 2019/07/09 13:00:25  curl http://127.0.0.1:9200
+  426  shenjinqi 2019/07/09 13:00:31 sudo docker ps
+  427  shenjinqi 2019/07/09 13:00:39 sudo docker logs dcad2ea59eb1
+  428  shenjinqi 2019/07/09 13:00:46 sudo docker logs dcad2ea59eb1
+  429  shenjinqi 2019/07/09 13:00:48 sudo docker logs dcad2ea59eb1
+  430  shenjinqi 2019/07/09 13:00:55 sudo docker logs dcad2ea59eb1>es
+  431  shenjinqi 2019/07/09 13:01:37 ls ~/data/elasticsearch/data/
+  432  shenjinqi 2019/07/09 13:03:20 chown /home/shenjinqi/data
+  433  shenjinqi 2019/07/09 13:04:17 more docker-compose.yml 
+  434  shenjinqi 2019/07/09 13:05:45 docker
+  435  shenjinqi 2019/07/09 13:00:58 vi es
+  436  shenjinqi 2019/07/09 13:06:31 sudo docker attach  dcad2ea59eb1
+  437  shenjinqi 2019/07/09 13:06:36 sudo docker attach  dcad2ea59eb1
+  438  shenjinqi 2019/07/09 13:06:37 sudo docker attach  dcad2ea59eb1
+  439  shenjinqi 2019/07/09 13:06:38 sudo docker attach  dcad2ea59eb1
+  440  shenjinqi 2019/07/09 13:06:39 sudo docker attach  dcad2ea59eb1
+  441  shenjinqi 2019/07/09 13:06:39 sudo docker attach  dcad2ea59eb1
+  442  shenjinqi 2019/07/09 13:06:40 sudo docker attach  dcad2ea59eb1
+  443  shenjinqi 2019/07/09 13:06:41 sudo docker attach  dcad2ea59eb1
+  444  shenjinqi 2019/07/09 13:06:42 sudo docker attach  dcad2ea59eb1
+  445  shenjinqi 2019/07/09 13:06:42 sudo docker attach  dcad2ea59eb1
+  446  shenjinqi 2019/07/09 13:06:43 sudo docker attach  dcad2ea59eb1
+  447  shenjinqi 2019/07/09 13:06:44 sudo docker attach  dcad2ea59eb1
+  448  shenjinqi 2019/07/09 13:06:45 sudo docker attach  dcad2ea59eb1
+  449  shenjinqi 2019/07/09 13:06:45 sudo docker attach  dcad2ea59eb1
+  450  shenjinqi 2019/07/09 13:06:48 sudo docker attach  dcad2ea59eb1
+  451  shenjinqi 2019/07/09 13:06:59 vi docker-compose_0709.yml 
+  452  shenjinqi 2019/07/09 13:07:13 sudo docker-compose down
+  453  shenjinqi 2019/07/09 13:07:32 sudo docker-compose -f docker-compose_0709.yml up -d
+  454  shenjinqi 2019/07/09 13:07:41 sudo docker attach  dcad2ea59eb1
+  455  shenjinqi 2019/07/09 13:07:45 docker ps
+  456  shenjinqi 2019/07/09 13:07:49 sudo docker ps
+  457  shenjinqi 2019/07/09 13:07:52 sudo docker ps
+  458  shenjinqi 2019/07/09 13:07:53 sudo docker ps
+  459  shenjinqi 2019/07/09 13:07:54 sudo docker ps
+  460  shenjinqi 2019/07/09 13:07:55 sudo docker ps
+  461  shenjinqi 2019/07/09 13:07:56 sudo docker ps
+  462  shenjinqi 2019/07/09 13:08:04 sudo docker ps
+  463  shenjinqi 2019/07/09 13:08:16 vi docker-compose_0709.yml 
+  464  shenjinqi 2019/07/09 13:08:54 cp docker-compose_0709.yml docker-compose_es.yml
+  465  shenjinqi 2019/07/09 13:08:58 vi docker-compose_es.yml
+  466  shenjinqi 2019/07/09 13:09:39 sudo docker-compose -f docker-compose_es.yml up
+  467  shenjinqi 2019/07/09 13:09:55 vi docker-compose_es.yml
+  468  shenjinqi 2019/07/09 13:10:23 sudo docker-compose -f docker-compose_es.yml up
+  469  shenjinqi 2019/07/09 13:10:38 more docker-compose.yml 
+  470  shenjinqi 2019/07/09 13:10:50 vi docker-compose_es.yml
+  471  shenjinqi 2019/07/09 13:10:59 sudo docker-compose -f docker-compose_es.yml up
+  472  shenjinqi 2019/07/09 13:11:12 sudo docker-compose -f docker-compose_es.yml up
+  473  shenjinqi 2019/07/09 13:11:40 sudo docker-compose -f docker-compose_es.yml up --remove-orphans
+  474  shenjinqi 2019/07/09 13:14:56 chmod 777 /home/shenjinqi/data/elasticsearch/data/
+  475  shenjinqi 2019/07/09 13:15:01 sudo chmod 777 /home/shenjinqi/data/elasticsearch/data
+  476  shenjinqi 2019/07/09 13:15:33 history
+  477  shenjinqi 2019/07/09 13:15:38 curl http://127.0.0.1:9200
+  478  shenjinqi 2019/07/09 13:15:08 sudo docker-compose -f docker-compose_es.yml up --remove-orphans
+  479  shenjinqi 2019/07/09 13:15:46 ls
+  480  shenjinqi 2019/07/09 13:16:16 sudo docker-compose -f docker-compose_0709.yml up -d
+  481  shenjinqi 2019/07/09 13:16:32 curl http://127.0.0.1:9200
+  482  shenjinqi 2019/07/09 13:16:34 curl http://127.0.0.1:9200
+  483  shenjinqi 2019/07/09 13:16:50 sudo docker ps
+  484  shenjinqi 2019/07/09 13:16:52 sudo docker ps
+  485  shenjinqi 2019/07/09 13:16:53 sudo docker ps
+  486  shenjinqi 2019/07/09 13:16:54 sudo docker ps
+  487  shenjinqi 2019/07/09 13:16:55 sudo docker ps
+  488  shenjinqi 2019/07/09 13:16:56 sudo docker ps
+  489  shenjinqi 2019/07/09 13:16:57 sudo docker ps
+  490  shenjinqi 2019/07/09 13:16:58 sudo docker ps
+  491  shenjinqi 2019/07/09 13:17:05 curl http://127.0.0.1:9200
+  492  shenjinqi 2019/07/09 13:17:11 curl http://127.0.0.1:5601
+  493  shenjinqi 2019/07/09 13:17:13 curl http://127.0.0.1:5601
+  494  shenjinqi 2019/07/09 13:17:57 curl http://127.0.0.1:9200
+  495  shenjinqi 2019/07/09 13:18:03 curl http://127.0.0.1:5601
+  496  shenjinqi 2019/07/09 13:26:14 ls
+  497  shenjinqi 2019/07/09 13:26:20 git status
+  498  shenjinqi 2019/07/09 13:26:36 git add docker-compose_0709.yml docker-compose_es.yml
+  499  shenjinqi 2019/07/09 13:27:04 git commit -m "single node in docker-compose_0709.yml"
+  500  shenjinqi 2019/07/09 13:27:09 git log
+  501  shenjinqi 2019/07/09 13:27:19 ls
+  502  shenjinqi 2019/07/09 13:27:24 git push
+  503  shenjinqi 2019/07/09 13:29:20 git remote add https://github.com/shenjinqi/cloudStepByStep
+  504  shenjinqi 2019/07/09 13:30:25 git remote add cloudStepByStep https://github.com/shenjinqi/cloudStepByStep
+  505  shenjinqi 2019/07/09 13:30:37 git push cloudStepByStep
+  506  shenjinqi 2019/07/09 13:31:08 git push --set-upstream cloudStepByStep master
+  507  shenjinqi 2019/07/09 13:32:04 git pull cloudStepByStep
+  508  shenjinqi 2019/07/09 13:32:16 git push --set-upstream cloudStepByStep master
+  509  shenjinqi 2019/07/09 13:33:05 git push
+  510  shenjinqi 2019/07/09 13:33:15 git push  cloudStepByStep
+  511  shenjinqi 2019/07/09 13:33:32 git push --set-upstream cloudStepByStep master
+  512  shenjinqi 2019/07/09 13:35:35 git remote add origin https://github.com/shenjinqi/cloudStepByStep
+  513  shenjinqi 2019/07/09 13:35:57 git remote add origin https://github.com/shenjinqi/cloudStepByStep.git
+  514  shenjinqi 2019/07/09 13:37:06 git remote add origin https://github.com/shenjinqi/cloudStepByStep.git
+  515  shenjinqi 2019/07/09 13:37:20 git pull --rebase origin master
+  516  shenjinqi 2019/07/09 13:37:32 git status
+  517  shenjinqi 2019/07/09 13:37:47 git diff docker-compose.yml
+  518  shenjinqi 2019/07/09 13:38:19 git commit -m "docker compose"
+  519  shenjinqi 2019/07/09 13:38:44 git pull --rebase origin master
+  520  shenjinqi 2019/07/09 13:41:06 rd/s/q .git
+  521  shenjinqi 2019/07/09 13:41:17 rm -rf .git
+  522  shenjinqi 2019/07/09 13:41:30 git commit -m "docker compose"
+  523  shenjinqi 2019/07/09 13:41:55 git push origin master
+  524  shenjinqi 2019/07/09 13:41:58 pwd
+  525  shenjinqi 2019/07/09 13:42:00 ls
+  526  shenjinqi 2019/07/09 13:42:04 ls -A
+  527  shenjinqi 2019/07/09 13:42:23 git init
+  528  shenjinqi 2019/07/09 13:42:25 ls
+  529  shenjinqi 2019/07/09 13:42:36 git status
+  530  shenjinqi 2019/07/09 13:42:42 git add .
+  531  shenjinqi 2019/07/09 13:42:44 git status
+  532  shenjinqi 2019/07/09 13:42:52 git commit -m "第一次提交"
+  533  shenjinqi 2019/07/09 13:43:12 git remote add origin https://github.com/shenjinqi/cloudStepByStep.git
+  534  shenjinqi 2019/07/09 13:43:23 git pull --rebase origin master
+  535  shenjinqi 2019/07/09 13:43:43 git push -u origin master
+  536  shenjinqi 2019/07/09 13:44:40 ls
+  537  shenjinqi 2019/07/09 13:45:11 more docker-compose.yml
+  538  shenjinqi 2019/07/09 13:46:25 history
+  539  shenjinqi 2019/07/09 13:46:40 sudo docker-compose down
+  540  shenjinqi 2019/07/09 13:47:08 sudo docker ps
+  541  shenjinqi 2019/07/09 13:47:10 sudo docker ps
+  542  shenjinqi 2019/07/09 13:47:27 vi docker-compose_0709.yml 
+  543  shenjinqi 2019/07/09 13:47:48 vi docker-compose_0709.yml 
+  544  shenjinqi 2019/07/09 13:47:54 sudo docker ps
+  545  shenjinqi 2019/07/09 13:47:55 sudo docker ps
+  546  shenjinqi 2019/07/09 13:48:25 sudo docker-compose -f docker-compose_0709.yml down
+  547  shenjinqi 2019/07/09 13:49:09 curl http://127.0.0.1:9200
+  548  shenjinqi 2019/07/09 13:49:17 curl http://127.0.0.1:9200
+  549  shenjinqi 2019/07/09 13:49:23 curl http://127.0.0.1:5601
+  550  shenjinqi 2019/07/09 13:48:44 sudo docker-compose up
+  551  shenjinqi 2019/07/09 13:49:55 ls
+  552  shenjinqi 2019/07/09 13:50:03 more docker-compose_0709.yml
+  553  shenjinqi 2019/07/09 13:50:28 vi docker-compose.yml 
+  554  shenjinqi 2019/07/09 13:52:49 curl http://127.0.0.1:9200
+  555  shenjinqi 2019/07/09 13:52:56 curl http://127.0.0.1:5601
+  556  shenjinqi 2019/07/09 13:53:22 curl http://127.0.0.1:5601
+  557  shenjinqi 2019/07/09 13:53:24 curl http://127.0.0.1:9200
+  558  shenjinqi 2019/07/09 13:53:30 curl http://127.0.0.1:9200
+  559  shenjinqi 2019/07/09 13:52:17 sudo docker-compose up
+  560  shenjinqi 2019/07/09 13:53:31 curl http://127.0.0.1:9200
+  561  shenjinqi 2019/07/09 13:53:33 curl http://127.0.0.1:9200
+  562  shenjinqi 2019/07/09 13:53:33 curl http://127.0.0.1:9200
+  563  shenjinqi 2019/07/09 13:53:43 vi docker-compose.yml 
+  564  shenjinqi 2019/07/09 13:55:10 sudo docker-compose up
+  565  shenjinqi 2019/07/09 14:05:34 vi docker-compose.yml 
+  566  shenjinqi 2019/07/09 14:07:48 curl http://127.0.0.1:9200
+  567  shenjinqi 2019/07/09 14:06:22 sudo docker-compose up
+  568  shenjinqi 2019/07/09 14:09:19 vi docker-compose.yml 
+  569  shenjinqi 2019/07/09 14:20:04 curl http://127.0.0.1:9200
+  570  shenjinqi 2019/07/09 14:20:07 curl http://127.0.0.1:9200
+  571  shenjinqi 2019/07/09 14:19:38 sudo docker-compose up
+  572  shenjinqi 2019/07/09 14:20:34 vi docker-compose.yml 
+  573  shenjinqi 2019/07/09 14:22:18 sudo docker-compose up
+  574  shenjinqi 2019/07/09 14:23:55 vi docker-compose.yml 
+  575  shenjinqi 2019/07/09 14:24:18 ls
+  576  shenjinqi 2019/07/09 14:24:21 vi kibana.yml 
+  577  shenjinqi 2019/07/09 14:24:57 sudo docker-compose up
+  578  shenjinqi 2019/07/09 14:25:57 ls
+  579  shenjinqi 2019/07/09 14:26:00 more kibana.yml 
+  580  shenjinqi 2019/07/09 14:26:11 vi kibana.yml 
+  581  shenjinqi 2019/07/09 14:26:19 vi docker-compose.yml 
+  582  shenjinqi 2019/07/09 14:32:03 curl http://127.0.0.1:9200
+  583  shenjinqi 2019/07/09 14:32:06 curl http://127.0.0.1:9200
+  584  shenjinqi 2019/07/09 14:32:07 curl http://127.0.0.1:9200
+  585  shenjinqi 2019/07/09 14:32:08 curl http://127.0.0.1:9200
+  586  shenjinqi 2019/07/09 14:32:09 curl http://127.0.0.1:9200
+  587  shenjinqi 2019/07/09 14:32:10 curl http://127.0.0.1:9200
+  588  shenjinqi 2019/07/09 14:32:10 curl http://127.0.0.1:9200
+  589  shenjinqi 2019/07/09 14:32:11 curl http://127.0.0.1:9200
+  590  shenjinqi 2019/07/09 14:32:12 curl http://127.0.0.1:9200
+  591  shenjinqi 2019/07/09 14:32:13 curl http://127.0.0.1:9200
+  592  shenjinqi 2019/07/09 14:32:14 curl http://127.0.0.1:9200
+  593  shenjinqi 2019/07/09 14:32:15 curl http://127.0.0.1:9200
+  594  shenjinqi 2019/07/09 14:32:16 curl http://127.0.0.1:9200
+  595  shenjinqi 2019/07/09 14:32:17 curl http://127.0.0.1:9200
+  596  shenjinqi 2019/07/09 14:32:18 curl http://127.0.0.1:9200
+  597  shenjinqi 2019/07/09 14:32:20 curl http://127.0.0.1:9200
+  598  shenjinqi 2019/07/09 14:32:21 curl http://127.0.0.1:9200
+  599  shenjinqi 2019/07/09 14:32:22 curl http://127.0.0.1:9200
+  600  shenjinqi 2019/07/09 14:32:23 curl http://127.0.0.1:9200
+  601  shenjinqi 2019/07/09 14:32:26 curl http://127.0.0.1:9200
+  602  shenjinqi 2019/07/09 14:32:34 curl http://elasticsearch:9200
+  603  shenjinqi 2019/07/09 14:32:46 curl http://es01:9200
+  604  shenjinqi 2019/07/09 14:31:57 sudo docker-compose up
+  605  shenjinqi 2019/07/09 14:33:40 vi docker-compose.yml 
+  606  shenjinqi 2019/07/09 14:36:22 sudo docker-compose up
+  607  shenjinqi 2019/07/09 14:39:48 docker network ls
+  608  shenjinqi 2019/07/09 14:39:53 sudo docker network ls
+  609  shenjinqi 2019/07/09 14:40:38 sudo docker network ls
+  610  shenjinqi 2019/07/09 14:39:44 sudo docker-compose up
+  611  shenjinqi 2019/07/09 14:40:59 sudo docker-compose down
+  612  shenjinqi 2019/07/09 14:41:02 sudo docker network ls
+  613  shenjinqi 2019/07/09 14:41:04 sudo docker network ls
+  614  shenjinqi 2019/07/09 14:41:05 sudo docker network ls
+  615  shenjinqi 2019/07/09 14:41:13 vi docker-compose.yml 
+  616  shenjinqi 2019/07/09 14:42:14 sudo docker network ls
+  617  shenjinqi 2019/07/09 14:42:16 sudo docker network ls
+  618  shenjinqi 2019/07/09 14:42:06 sudo docker-compose up
+  619  shenjinqi 2019/07/09 14:42:59 sudo docker network ls
+  620  shenjinqi 2019/07/09 14:49:49 vi docker-compose.yml 
+  621  shenjinqi 2019/07/09 14:57:35 sudo docker-compose down
+  622  shenjinqi 2019/07/09 14:58:42 sudo docker network ls
+  623  shenjinqi 2019/07/09 14:57:43 sudo docker-compose up
+  624  shenjinqi 2019/07/09 14:59:21 grep -R 'elasticsearch' *
+  625  shenjinqi 2019/07/09 15:01:17 sudo docker-compose down
+  626  shenjinqi 2019/07/09 15:01:21 vi docker-compose.yml 
+  627  shenjinqi 2019/07/09 15:02:02 grep -R 'elasticsearch' *
+  628  shenjinqi 2019/07/09 15:02:05 sudo docker-compose up
+  629  shenjinqi 2019/07/09 15:03:21 ls
+  630  shenjinqi 2019/07/09 15:03:26 more docker-compose_0709.yml
+  631  shenjinqi 2019/07/09 15:06:04 sudo docker-compose down
+  632  shenjinqi 2019/07/09 15:06:20 vi docker-compose.yml 
+  633  shenjinqi 2019/07/09 15:06:34 sudo docker-compose down
+  634  shenjinqi 2019/07/09 15:06:54 sudo docker-compose -f docker-compose_0709.yml 
+  635  shenjinqi 2019/07/09 15:07:06 sudo docker network ls
+  636  shenjinqi 2019/07/09 15:06:57 sudo docker-compose -f docker-compose_0709.yml up
+  637  shenjinqi 2019/07/09 15:10:46 sudo docker-compose -f docker-compose_0709.yml down
+  638  shenjinqi 2019/07/09 15:10:51 vi docker-compose.yml 
+  639  shenjinqi 2019/07/09 15:13:43 sudo docker-compose up
+  640  shenjinqi 2019/07/09 15:13:50 vi docker-compose.yml 
+  641  shenjinqi 2019/07/09 15:15:16 curl http://127.0.0.1:9200
+  642  shenjinqi 2019/07/09 15:15:23 curl http://127.0.0.1:5601
+  643  shenjinqi 2019/07/09 15:14:09 sudo docker-compose up
+  644  shenjinqi 2019/07/09 15:16:30 sudo docker-compose down
+  645  shenjinqi 2019/07/09 15:16:33 vi docker-compose.yml 
+  646  shenjinqi 2019/07/09 15:16:58 git status
+  647  shenjinqi 2019/07/09 15:17:31 git commit -m 'cluster ok by docker-compose.yml'
+  648  shenjinqi 2019/07/09 15:17:48 git commit -m 'cluster ok by docker-compose.yml' -a
+  649  shenjinqi 2019/07/09 15:18:07 git commit -m 'cluster ok by docker-compose.yml' -a push
+  650  shenjinqi 2019/07/09 15:18:15 history|grep git
+  651  shenjinqi 2019/07/09 15:18:23 git push -u origin master
+  652  shenjinqi 2019/07/09 15:18:48 pull --rebase origin master
+  653  shenjinqi 2019/07/09 15:19:02 git pull --rebase origin master
+  654  shenjinqi 2019/07/09 15:19:13 git push -u origin master
+  655  shenjinqi 2019/07/09 17:28:16 curl http://127.0.0.1:5601
+  656  shenjinqi 2019/07/09 17:28:20 curl http://127.0.0.1:9200
+  657  shenjinqi 2019/07/09 17:28:53 ls
+  658  shenjinqi 2019/07/09 17:29:11 history
+  659  shenjinqi 2019/07/09 17:29:25 sudo docker-compose up
+  660  shenjinqi 2019/07/09 17:29:56 sudo docker-compose down
+  661  shenjinqi 2019/07/09 17:30:00 sudo docker-compose up -d
+  662  shenjinqi 2019/07/09 17:31:46 cd ..
+  663  shenjinqi 2019/07/09 17:31:47 ls
+  664  shenjinqi 2019/07/09 17:31:52 mkdir dev
+  665  shenjinqi 2019/07/09 17:31:54 cd dev/
+  666  shenjinqi 2019/07/09 17:31:57 python
+  667  shenjinqi 2019/07/09 17:33:22 pip install python-logstash
+  668  shenjinqi 2019/07/09 17:33:39 sudo pip install python-logstash
+  669  shenjinqi 2019/07/09 17:34:59 vi elk_logger.py
+  670  shenjinqi 2019/07/09 17:36:38 python elk_logger.py 
+  671  shenjinqi 2019/07/09 17:36:58 vi elk_logger.py
+  672  shenjinqi 2019/07/09 17:37:05 python elk_logger.py 
+  673  shenjinqi 2019/07/09 17:38:14 more ../ELK/logstash.conf 
+  674  shenjinqi 2019/07/09 17:38:38 vi elk_logger.py
+  675  shenjinqi 2019/07/09 17:38:55 python elk_logger.py 
+  676  shenjinqi 2019/07/09 17:39:40 curl http://127.0.0.1:9200
+  677  shenjinqi 2019/07/09 17:40:30 ls ../../data/elasticsearch/data/
+  678  shenjinqi 2019/07/09 17:40:33 ls ../../data/elasticsearch/data/nodes/
+  679  shenjinqi 2019/07/09 17:40:35 ls ../../data/elasticsearch/data/nodes/0/
+  680  shenjinqi 2019/07/09 17:40:40 ls ../../data/elasticsearch/data/nodes/0/indices/
+  681  shenjinqi 2019/07/09 17:40:42 ls ../../data/elasticsearch/data/nodes/0/indices/
+  682  shenjinqi 2019/07/09 17:55:26 python elk_logger.py 
+  683  shenjinqi 2019/07/09 17:55:33 vi elk_logger.py 
+  684  shenjinqi 2019/07/09 17:56:15 python elk_logger.py 
+  685  shenjinqi 2019/07/10 12:05:16 cd work/ELK/
+  686  shenjinqi 2019/07/10 12:05:16 ls
+  687  shenjinqi 2019/07/10 12:05:29 sudo docker-compose down
+  688  shenjinqi 2019/07/10 12:05:43 ls
+  689  shenjinqi 2019/07/10 12:05:50 more logstash.yml
+  690  shenjinqi 2019/07/10 12:06:10 more logstash.conf
+  691  shenjinqi 2019/07/10 12:07:08 python elk_logger.py 
+  692  shenjinqi 2019/07/10 12:07:49 python elk_logger.py 
+  693  shenjinqi 2019/07/10 12:07:52 python elk_logger.py 
+  694  shenjinqi 2019/07/10 12:07:57 more elk_logger.py 
+  695  shenjinqi 2019/07/10 12:10:25 more ../ELK/docker-compose.yml 
+  696  shenjinqi 2019/07/10 12:10:48 vi ../ELK/docker-compose.yml 
+  697  shenjinqi 2019/07/10 12:06:49 sudo docker-compose up
+  698  shenjinqi 2019/07/10 12:11:34 sudo docker-compose down
+  699  shenjinqi 2019/07/10 12:12:40 python elk_logger.py 
+  700  shenjinqi 2019/07/10 12:18:50 echo'{"name":"liuziping","age":"18"}' |nc 127.0.0.5000
+  701  shenjinqi 2019/07/10 12:19:14 echo'{"name":"liuziping","age":"18"}' |nc 127.0.0.1 5000
+  702  shenjinqi 2019/07/10 12:19:22 echo'{"name":"liuziping","age":"18"}' |nc 127.0.0.1:5000
+  703  shenjinqi 2019/07/10 12:19:53 echo '{"name":"liuziping","age":"18"}' |nc 127.0.0.1 5000
+  704  shenjinqi 2019/07/10 12:20:05 echo '{"name":"liuziping","age":"18"}' |nc 127.0.0.1 5000
+  705  shenjinqi 2019/07/10 12:20:07 echo '{"name":"liuziping","age":"18"}' |nc 127.0.0.1 5000
+  706  shenjinqi 2019/07/10 12:20:36 echo '{"name":"liuziping","age":"18"}' |nc 127.0.0.1 5044
+  707  shenjinqi 2019/07/10 12:11:40 sudo docker-compose up
+  708  shenjinqi 2019/07/10 12:21:25 sudo docker-compose down
+  709  shenjinqi 2019/07/10 12:21:31 vi docker-compose.yml 
+  710  shenjinqi 2019/07/10 12:22:12 ls
+  711  shenjinqi 2019/07/10 12:22:18 more 1.txt/
+  712  shenjinqi 2019/07/10 12:25:36 nore logstash.conf 
+  713  shenjinqi 2019/07/10 12:25:41 more logstash.conf 
+  714  shenjinqi 2019/07/10 12:26:20 vi logstash.conf 
+  715  shenjinqi 2019/07/10 12:28:44 vi logstash.conf 
+  716  shenjinqi 2019/07/10 12:30:39 echo '{"name":"liuziping","age":"18"}' |nc 127.0.0.1 5000
+  717  shenjinqi 2019/07/10 12:30:45 python elk_logger.py 
+  718  shenjinqi 2019/07/10 12:31:19 sudo docker ps
+  719  shenjinqi 2019/07/10 12:32:03 python elk_logger.py 
+  720  shenjinqi 2019/07/10 12:32:07 echo '{"name":"liuziping","age":"18"}' |nc 127.0.0.1 5000
+  721  shenjinqi 2019/07/10 12:31:51 sudo docker attach 7b5596051640
+  722  shenjinqi 2019/07/10 12:32:31 sudo docker ps
+  723  shenjinqi 2019/07/10 12:32:34 sudo docker ps
+  724  shenjinqi 2019/07/10 12:32:38 python elk_logger.py 
+  725  shenjinqi 2019/07/10 12:32:41 echo '{"name":"liuziping","age":"18"}' |nc 127.0.0.1 5000
+  726  shenjinqi 2019/07/10 12:32:57 docker
+  727  shenjinqi 2019/07/10 12:36:03 more ../ELK/docker-compose.yml 
+  728  shenjinqi 2019/07/10 12:43:46 vi ../ELK/docker-compose.yml 
+  729  shenjinqi 2019/07/10 12:47:57 more ../ELK/logstash.yml 
+  730  shenjinqi 2019/07/10 12:48:17 vi ../ELK/docker-compose.yml 
+  731  shenjinqi 2019/07/10 12:29:21 sudo docker-compose up
+  732  shenjinqi 2019/07/10 12:48:57 sudo docker-compose down
+  733  shenjinqi 2019/07/10 12:49:04 sudo docker-compose up
+  734  shenjinqi 2019/07/10 12:50:52 sudo docker-compose down
+  735  shenjinqi 2019/07/10 12:50:59 vi ../ELK/docker-compose.yml 
+  736  shenjinqi 2019/07/10 12:52:11 sudo docker ps
+  737  shenjinqi 2019/07/10 12:52:47 sudo docker logs 2679c82d7897
+  738  shenjinqi 2019/07/10 12:53:29 sudo docker logs 2679c82d7897
+  739  shenjinqi 2019/07/10 12:53:39 ls
+  740  shenjinqi 2019/07/10 12:53:45 python elk_logger.py 
+  741  shenjinqi 2019/07/10 12:53:48 sudo docker logs 2679c82d7897
+  742  shenjinqi 2019/07/10 12:54:19 sudo docker logs 2679c82d7897
+  743  shenjinqi 2019/07/10 12:54:20 sudo docker logs 2679c82d7897
+  744  shenjinqi 2019/07/10 12:54:20 sudo docker logs 2679c82d7897
+  745  shenjinqi 2019/07/10 12:54:21 sudo docker logs 2679c82d7897
+  746  shenjinqi 2019/07/10 12:54:22 sudo docker logs 2679c82d7897
+  747  shenjinqi 2019/07/10 12:54:23 sudo docker logs 2679c82d7897
+  748  shenjinqi 2019/07/10 12:54:35 docker 
+  749  shenjinqi 2019/07/10 12:54:56 docker cp
+  750  shenjinqi 2019/07/10 12:57:17 sudo docker cp 2679c82d7897:/usr/share/logstash/ .
+  751  shenjinqi 2019/07/10 12:57:28 ls
+  752  shenjinqi 2019/07/10 12:57:38 ls logstash 
+  753  shenjinqi 2019/07/10 12:57:46 sudo docker cp 2679c82d7897:/usr/share/logstash/ ./lg
+  754  shenjinqi 2019/07/10 12:57:50 ls
+  755  shenjinqi 2019/07/10 12:57:55 tree lg
+  756  shenjinqi 2019/07/10 12:58:02 ls lg
+  757  shenjinqi 2019/07/10 12:58:15 ls lg/config/
+  758  shenjinqi 2019/07/10 12:58:25 ls lg/config/logstash.yml 
+  759  shenjinqi 2019/07/10 12:58:31 more lg/config/logstash.yml 
+  760  shenjinqi 2019/07/10 12:58:51 more lg/
+  761  shenjinqi 2019/07/10 12:58:55 ls lg
+  762  shenjinqi 2019/07/10 12:59:06 ls lg/bin/
+  763  shenjinqi 2019/07/10 12:59:32 more lg/bin/logstash.bat 
+  764  shenjinqi 2019/07/10 12:59:52 ls lg
+  765  shenjinqi 2019/07/10 13:00:05 ls lg/config/
+  766  shenjinqi 2019/07/10 13:00:46 more ../work/ELK/logstash.yml 
+  767  shenjinqi 2019/07/10 13:01:02 more ../work/ELK/logstash.conf 
+  768  shenjinqi 2019/07/10 13:01:31 ls
+  769  shenjinqi 2019/07/10 13:01:34  ls lg
+  770  shenjinqi 2019/07/10 13:01:46  ls lg/data/
+  771  shenjinqi 2019/07/10 13:01:49  ls lg/data/queue/
+  772  shenjinqi 2019/07/10 13:01:51  ls lg/data/queue/
+  773  shenjinqi 2019/07/10 13:02:11 docker
+  774  shenjinqi 2019/07/10 13:03:31 sudo docker exec 2679c82d7897 pwd
+  775  shenjinqi 2019/07/10 13:03:36 sudo docker exec 2679c82d7897 ls
+  776  shenjinqi 2019/07/10 13:03:45 sudo docker exec 2679c82d7897 ps
+  777  shenjinqi 2019/07/10 13:05:09 sudo docker exec 2679c82d7897 netstat
+  778  shenjinqi 2019/07/10 13:05:14 sudo docker exec 2679c82d7897 netstatus
+  779  shenjinqi 2019/07/10 13:06:05 sudo docker exec 2679c82d7897 'netcat -v 127.0.0.1 5044'
+  780  shenjinqi 2019/07/10 13:06:20 sudo docker exec 2679c82d7897 netcat -v 127.0.0.1 5044
+  781  shenjinqi 2019/07/10 13:06:42 sudo docker exec 2679c82d7897 history
+  782  shenjinqi 2019/07/10 13:07:08 sudo docker exec 2679c82d7897 ps -A
+  783  shenjinqi 2019/07/10 13:07:17 ps
+  784  shenjinqi 2019/07/10 13:07:20 ps -A
+  785  shenjinqi 2019/07/10 13:07:27 sudo docker exec 2679c82d7897 ps -A
+  786  shenjinqi 2019/07/10 13:08:16 sudo docker exec 2679c82d7897 netstat
+  787  shenjinqi 2019/07/10 13:08:32 sudo docker exec 2679c82d7897 nmap
+  788  shenjinqi 2019/07/10 13:09:18 sudo docker exec 2679c82d7897 'apt-get install netstat'
+  789  shenjinqi 2019/07/10 13:09:29 ls
+  790  shenjinqi 2019/07/10 13:09:38 sudo docker exec 2679c82d7897 ls
+  791  shenjinqi 2019/07/10 13:09:55 sudo docker exec 2679c82d7897 ls/pipeline
+  792  shenjinqi 2019/07/10 13:10:15 sudo docker exec 2679c82d7897 ls pipeline
+  793  shenjinqi 2019/07/10 13:10:36 sudo docker exec 2679c82d7897 more pipeline/logstash.conf
+  794  shenjinqi 2019/07/10 13:10:56 nc -l 5044
+  795  shenjinqi 2019/07/10 13:13:19 cd ../ELK/
+  796  shenjinqi 2019/07/10 13:13:20 ls
+  797  shenjinqi 2019/07/10 13:13:27 ls
+  798  shenjinqi 2019/07/10 13:38:39 history
+  799  shenjinqi 2019/07/10 13:39:02 sudo docker exec 2679c82d7897 ls /logs
+  800  shenjinqi 2019/07/10 13:39:09 sudo docker exec 2679c82d7897 ls 
+  801  shenjinqi 2019/07/10 13:39:14 sudo docker exec 2679c82d7897 pwd
+  802  shenjinqi 2019/07/10 13:39:38 ls
+  803  shenjinqi 2019/07/10 13:39:42 cd ..
+  804  shenjinqi 2019/07/10 13:39:42 ls
+  805  shenjinqi 2019/07/10 13:39:48 cd dev/
+  806  shenjinqi 2019/07/10 13:39:48 ls
+  807  shenjinqi 2019/07/10 13:40:06 mkdir ./pipline
+  808  shenjinqi 2019/07/10 13:41:07 docker run --rm -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  809  shenjinqi 2019/07/10 13:41:14 sudo docker run --rm -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  810  shenjinqi 2019/07/10 13:42:39 sudo docker run --rm -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  811  shenjinqi 2019/07/10 13:43:56 ls
+  812  shenjinqi 2019/07/10 13:44:07 cp ../ELK/logstash.conf pipline/
+  813  shenjinqi 2019/07/10 13:44:12 sudo docker run --rm -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  814  shenjinqi 2019/07/10 13:45:43 ls
+  815  shenjinqi 2019/07/10 13:45:47 vi pipline/logstash.conf 
+  816  shenjinqi 2019/07/10 13:46:43 sudo docker run --rm -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  817  shenjinqi 2019/07/10 13:47:26 vi pipline/logstash.conf 
+  818  shenjinqi 2019/07/10 13:47:43 sudo docker run --rm -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  819  shenjinqi 2019/07/10 13:48:22 sudo docker run --rm -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  820  shenjinqi 2019/07/10 13:49:44 sudo docker run --rm -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0>log.txt
+  821  shenjinqi 2019/07/10 13:51:33 vi log.txt 
+  822  shenjinqi 2019/07/10 13:53:56 ls
+  823  shenjinqi 2019/07/10 13:54:01 vi pipline/logstash.conf 
+  824  shenjinqi 2019/07/10 13:54:50 sudo docker run --rm -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0>log.txt
+  825  shenjinqi 2019/07/10 13:56:20 vi log.txt 
+  826  shenjinqi 2019/07/10 13:57:26 rm log.txt 
+  827  shenjinqi 2019/07/10 13:57:28 sudo docker run --rm -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0>log.txt
+  828  shenjinqi 2019/07/10 14:02:08 vi log.txt 
+  829  shenjinqi 2019/07/10 14:13:00 cd ../debug/
+  830  shenjinqi 2019/07/10 14:13:04 cd ..
+  831  shenjinqi 2019/07/10 14:13:11 pwd
+  832  shenjinqi 2019/07/10 14:13:14 ls
+  833  shenjinqi 2019/07/10 14:13:25 cd work/dev/
+  834  shenjinqi 2019/07/10 14:13:27 ls
+  835  shenjinqi 2019/07/10 14:14:03 python elk_logger.py 
+  836  shenjinqi 2019/07/10 14:11:09 sudo docker run --rm -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  837  shenjinqi 2019/07/10 14:15:12 ls
+  838  shenjinqi 2019/07/10 14:15:20 chmod 777 pipline/
+  839  shenjinqi 2019/07/10 14:15:45 netstat
+  840  shenjinqi 2019/07/10 14:15:59 netstat|grep 5044
+  841  shenjinqi 2019/07/10 14:16:03 netstat|grep 5000
+  842  shenjinqi 2019/07/10 14:15:27 sudo docker run --rm -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  843  shenjinqi 2019/07/10 14:17:12 netstat|grep 9200
+  844  shenjinqi 2019/07/10 14:17:18 netstat|grep 5601
+  845  shenjinqi 2019/07/10 14:17:24 more pipline/logstash.conf 
+  846  shenjinqi 2019/07/10 14:17:47 more ../ELK/docker-compose.yml 
+  847  shenjinqi 2019/07/10 14:18:56 netstat|grep 5044
+  848  shenjinqi 2019/07/10 14:19:13 python elk_logger.py 
+  849  shenjinqi 2019/07/10 14:18:40 sudo docker run --rm -p 5044:5044 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  850  shenjinqi 2019/07/10 14:21:14 ls
+  851  shenjinqi 2019/07/10 14:21:18 rm log.txt 
+  852  shenjinqi 2019/07/10 14:21:53 python elk_logger.py 
+  853  shenjinqi 2019/07/10 14:21:29 sudo docker run --rm -p 5044:5044 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0>log5044.txt
+  854  shenjinqi 2019/07/10 14:22:21 sudo docker run --rm -p 504400:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0>log5000.txt
+  855  shenjinqi 2019/07/10 14:22:46 python elk_logger.py 
+  856  shenjinqi 2019/07/10 14:22:48 python elk_logger.py 
+  857  shenjinqi 2019/07/10 14:22:32 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0>log5000.txt
+  858  shenjinqi 2019/07/10 15:30:50 vi vi log5000.txt 
+  859  shenjinqi 2019/07/10 15:31:01 vi log5000.txt 
+  860  shenjinqi 2019/07/10 15:31:47 vi log5044.txt 
+  861  shenjinqi 2019/07/10 15:32:18 more pipline/logstash.conf 
+  862  shenjinqi 2019/07/10 15:32:36 vi pipline/logstash.conf 
+  863  shenjinqi 2019/07/10 15:33:27 ls
+  864  shenjinqi 2019/07/10 15:33:34 rm log50*
+  865  shenjinqi 2019/07/10 15:37:06 python elk_logger.py 
+  866  shenjinqi 2019/07/10 15:36:36 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0>log5000.txt
+  867  shenjinqi 2019/07/10 15:38:02 ls
+  868  shenjinqi 2019/07/10 15:38:05 vi log5000.txt 
+  869  shenjinqi 2019/07/10 15:38:53 rm log50*
+  870  shenjinqi 2019/07/10 15:38:58 vi pipline/logstash.conf 
+  871  shenjinqi 2019/07/10 15:39:47 python elk_logger.py 
+  872  shenjinqi 2019/07/10 15:39:30 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0>log5000.txt
+  873  shenjinqi 2019/07/10 15:40:28 vi log5000.txt 
+  874  shenjinqi 2019/07/10 15:41:18 more elk_logger.py 
+  875  shenjinqi 2019/07/10 15:41:30 more elk_logger.py 
+  876  shenjinqi 2019/07/10 15:41:40 nc -l 5044
+  877  shenjinqi 2019/07/10 15:41:48 nc -l 5000
+  878  shenjinqi 2019/07/10 15:41:08 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  879  shenjinqi 2019/07/10 15:43:19 ls
+  880  shenjinqi 2019/07/10 15:43:45 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  881  shenjinqi 2019/07/10 15:52:50 vi pipline/logstash.conf 
+  882  shenjinqi 2019/07/10 15:53:00 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash:7.2.0
+  883  shenjinqi 2019/07/10 15:58:15 more ../ELK/docker-compose.yml 
+  884  shenjinqi 2019/07/10 15:59:24 ls
+  885  shenjinqi 2019/07/10 15:59:48 vi logstash.dockerfile
+  886  shenjinqi 2019/07/10 16:01:06 docker build -f logstash.dockerfile -t logstash_sjq:1.0
+  887  shenjinqi 2019/07/10 16:01:14 ls
+  888  shenjinqi 2019/07/10 16:01:43 docker build
+  889  shenjinqi 2019/07/10 16:01:48 docker build --help
+  890  shenjinqi 2019/07/10 16:02:09 sudo docker build -f logstash.dockerfile -t logstash_sjq:1.0
+  891  shenjinqi 2019/07/10 16:03:10 mv logstash.dockerfile Dockerfile
+  892  shenjinqi 2019/07/10 16:03:19 sudo docker build -f Dockerfile -t logstash_sjq:1.0
+  893  shenjinqi 2019/07/10 16:03:29 sudo docker build -f Dockerfile
+  894  shenjinqi 2019/07/10 16:03:52 sudo docker build -f Dockerfile
+  895  shenjinqi 2019/07/10 16:03:58 docker build -f Dockerfile
+  896  shenjinqi 2019/07/10 16:04:36 sudo docker build -t logstash_sjq:1.0
+  897  shenjinqi 2019/07/10 16:04:55 sudo docker build -t logstash_sjq:1.0 .
+  898  shenjinqi 2019/07/10 16:05:05 vi Dockerfile 
+  899  shenjinqi 2019/07/10 16:05:13 sudo docker build -t logstash_sjq:1.0 .
+  900  shenjinqi 2019/07/10 16:05:25 history
+  901  shenjinqi 2019/07/10 16:06:57 python elk_logger.py 
+  902  shenjinqi 2019/07/10 16:07:20 nc -l 5000
+  903  shenjinqi 2019/07/10 16:07:27 nc -l 5004
+  904  shenjinqi 2019/07/10 16:07:34 nc -l 5044
+  905  shenjinqi 2019/07/10 16:06:05 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  906  shenjinqi 2019/07/10 16:08:22 nc -l 5044
+  907  shenjinqi 2019/07/10 16:08:38 nc -l 9600
+  908  shenjinqi 2019/07/10 16:07:54 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  909  shenjinqi 2019/07/10 16:08:50 vi pipline/
+  910  shenjinqi 2019/07/10 16:08:58 ls
+  911  shenjinqi 2019/07/10 16:09:05 vi pipline/logstash.conf 
+  912  shenjinqi 2019/07/10 16:09:39 ls pipline/
+  913  shenjinqi 2019/07/10 16:09:45 vi pipline/
+  914  shenjinqi 2019/07/10 16:10:05 more Dockerfile 
+  915  shenjinqi 2019/07/10 16:11:33 cp ../ELK/logstash.yml pipline/
+  916  shenjinqi 2019/07/10 16:11:41 vi pipline/logstash.yml 
+  917  shenjinqi 2019/07/10 16:13:48 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  918  shenjinqi 2019/07/10 16:14:44 vi pipline/logstash.yml 
+  919  shenjinqi 2019/07/10 16:14:56 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  920  shenjinqi 2019/07/10 16:15:39 vi pipline/logstash.yml 
+  921  shenjinqi 2019/07/10 16:15:49 ls
+  922  shenjinqi 2019/07/10 16:16:04 ls ../../debug/
+  923  shenjinqi 2019/07/10 16:16:06 ls ../../debug/log
+  924  shenjinqi 2019/07/10 16:16:11 ls ../../debug/lg
+  925  shenjinqi 2019/07/10 16:16:14 ls ../../debug/lg/config/
+  926  shenjinqi 2019/07/10 16:16:30 ls ../../debug/lg/config/logstash.yml 
+  927  shenjinqi 2019/07/10 16:16:34 vi ../../debug/lg/config/logstash.yml 
+  928  shenjinqi 2019/07/10 16:16:47 ls
+  929  shenjinqi 2019/07/10 16:17:15 more ../../debug/lg/config/logstash.yml 
+  930  shenjinqi 2019/07/10 16:17:30 vi pipline/logstash.yml 
+  931  shenjinqi 2019/07/10 16:17:52 more Dockerfile 
+  932  shenjinqi 2019/07/10 16:18:10 vi Dockerfile 
+  933  shenjinqi 2019/07/10 16:19:15 history
+  934  shenjinqi 2019/07/10 16:19:27 sudo docker build -t logstash_sjq:1.0 .
+  935  shenjinqi 2019/07/10 16:19:40 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  936  shenjinqi 2019/07/10 16:20:08 ls 
+  937  shenjinqi 2019/07/10 16:20:11 ls pipline/
+  938  shenjinqi 2019/07/10 16:20:44 vi pipline/logstash.yml 
+  939  shenjinqi 2019/07/10 16:21:03 histroy
+  940  shenjinqi 2019/07/10 16:21:06 history
+  941  shenjinqi 2019/07/10 16:21:13 more ../../debug/lg/config/logstash.yml
+  942  shenjinqi 2019/07/10 16:21:23 more pipline/logstash.yml 
+  943  shenjinqi 2019/07/10 16:21:38 vi pipline/logstash.yml 
+  944  shenjinqi 2019/07/10 16:21:49 sudo docker build -t logstash_sjq:1.0 .
+  945  shenjinqi 2019/07/10 16:21:56 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  946  shenjinqi 2019/07/10 16:23:07 vi pipline/logstash.yml 
+  947  shenjinqi 2019/07/10 16:23:39 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  948  shenjinqi 2019/07/10 16:24:35 ls
+  949  shenjinqi 2019/07/10 16:24:42 more ../ELK/logstash.yml 
+  950  shenjinqi 2019/07/10 16:24:52 more ../ELK/logstash.conf 
+  951  shenjinqi 2019/07/10 16:25:06 ls
+  952  shenjinqi 2019/07/10 16:25:15 rm pipline/logstash.yml 
+  953  shenjinqi 2019/07/10 16:25:30 sudo docker build -t logstash_sjq:1.0 .
+  954  shenjinqi 2019/07/10 16:25:38 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  955  shenjinqi 2019/07/10 16:26:29 more ../ELK/logstash.yml 
+  956  shenjinqi 2019/07/10 16:27:07 cp ../ELK/logstash.yml pipline/
+  957  shenjinqi 2019/07/10 16:27:14 vi pipline/logstash.yml 
+  958  shenjinqi 2019/07/10 16:27:21 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  959  shenjinqi 2019/07/10 16:27:30 sudo docker build -t logstash_sjq:1.0 .
+  960  shenjinqi 2019/07/10 16:30:01 nc -l 9600
+  961  shenjinqi 2019/07/10 16:30:07 nc -l 5044
+  962  shenjinqi 2019/07/10 16:30:15 nc -l 5000
+  963  shenjinqi 2019/07/10 16:30:25 curl http://127.0.0.1:9200
+  964  shenjinqi 2019/07/10 16:30:32 curl http://127.0.0.1:9600
+  965  shenjinqi 2019/07/10 16:30:40 curl http://127.0.0.1:5000
+  966  shenjinqi 2019/07/10 16:30:51 python elk_logger.py 
+  967  shenjinqi 2019/07/10 16:30:53 python elk_logger.py 
+  968  shenjinqi 2019/07/10 16:27:32 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  969  shenjinqi 2019/07/10 16:35:16 ls
+  970  shenjinqi 2019/07/10 16:35:24 vi pipline/logstash.conf 
+  971  shenjinqi 2019/07/10 16:36:27 vi pipline/logstash.conf 
+  972  shenjinqi 2019/07/10 16:39:03 python elk_logger.py 
+  973  shenjinqi 2019/07/10 16:39:14 vi elk_logger.py 
+  974  shenjinqi 2019/07/10 16:39:38 vi elk_logger.py 
+  975  shenjinqi 2019/07/10 16:39:42 python elk_logger.py 
+  976  shenjinqi 2019/07/10 16:40:02 more elk_logger.py 
+  977  shenjinqi 2019/07/10 16:41:20 vi elk_logger.py 
+  978  shenjinqi 2019/07/10 16:41:37 python elk_logger.py 
+  979  shenjinqi 2019/07/10 16:36:48 sudo docker run --rm -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  980  shenjinqi 2019/07/10 16:42:52 sudo docker run --rm -p 5--network host 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  981  shenjinqi 2019/07/10 16:43:54 python elk_logger.py 
+  982  shenjinqi 2019/07/10 16:44:11 nc -l 5000
+  983  shenjinqi 2019/07/10 16:43:19 sudo docker run --rm --network host -p 5000:5000 -it -v ~/work/dev/pipline:/usr/share/logstash/pipeline/ logstash_sjq:1.0
+  984  shenjinqi 2019/07/10 16:45:00 cd ../ELK/
+  985  shenjinqi 2019/07/10 16:45:01 ls
+  986  shenjinqi 2019/07/10 16:45:08 more logstash.
+  987  shenjinqi 2019/07/10 16:45:12 more logstash.yml 
+  988  shenjinqi 2019/07/10 16:45:26 more docker-compose.yml 
+  989  shenjinqi 2019/07/10 16:46:15 cd ../dev/
+  990  shenjinqi 2019/07/10 16:46:16 ls
+  991  shenjinqi 2019/07/10 16:46:29 cp ../ELK/docker-compose.yml 
+  992  shenjinqi 2019/07/10 16:46:32 cp ../ELK/docker-compose.yml .
+  993  shenjinqi 2019/07/10 16:46:42 cp ../ELK/logstash.* .
+  994  shenjinqi 2019/07/10 16:46:43 ls
+  995  shenjinqi 2019/07/10 16:46:50 vi docker-compose.yml 
+  996  shenjinqi 2019/07/10 16:47:33 ls
+  997  shenjinqi 2019/07/10 16:47:59 more Dockerfile 
+  998  shenjinqi 2019/07/10 16:48:58 vi pipline/logstash.yml 
+  999  shenjinqi 2019/07/10 16:49:10 ls
+ 1000  shenjinqi 2019/07/10 16:49:14 more docker-compose.yml 
+ 1001  shenjinqi 2019/07/10 16:49:23 vi docker-compose.yml 
+ 1002  shenjinqi 2019/07/10 16:50:08 sudo docker-compose up
+ 1003  shenjinqi 2019/07/10 16:50:35 vi docker-compose.yml 
+ 1004  shenjinqi 2019/07/10 16:50:47 sudo docker-compose up
+ 1005  shenjinqi 2019/07/10 16:50:55 vi docker-compose.yml 
+ 1006  shenjinqi 2019/07/10 16:51:08 sudo docker-compose up
+ 1007  shenjinqi 2019/07/10 16:52:13 vi docker-compose.yml 
+ 1008  shenjinqi 2019/07/10 16:52:46 more logstash.conf 
+ 1009  shenjinqi 2019/07/10 16:53:31 vi logstash.conf 
+ 1010  shenjinqi 2019/07/10 16:54:12 sudo docker-compose up
+ 1011  shenjinqi 2019/07/10 16:55:13 more Dockerfile 
+ 1012  shenjinqi 2019/07/10 16:55:36 more pipline/logstash.yml 
+ 1013  shenjinqi 2019/07/10 16:55:45 more logstash.yml 
+ 1014  shenjinqi 2019/07/10 16:55:58 cp pipline/logstash.yml .
+ 1015  shenjinqi 2019/07/10 16:56:02 sudo docker-compose up
+ 1016  shenjinqi 2019/07/10 16:56:23 ls
+ 1017  shenjinqi 2019/07/10 16:56:27 vi docker-compose.yml 
+ 1018  shenjinqi 2019/07/10 16:57:30 history
+ 1019  shenjinqi 2019/07/10 16:57:32 ls
+ 1020  shenjinqi 2019/07/10 16:57:37 mkdir config
+ 1021  shenjinqi 2019/07/10 16:57:46 mv logstash.yml config/
+ 1022  shenjinqi 2019/07/10 16:57:52 mv logstash.conf config/
+ 1023  shenjinqi 2019/07/10 16:57:54 history
+ 1024  shenjinqi 2019/07/10 16:58:08 vi docker-compose.yml 
+ 1025  shenjinqi 2019/07/10 16:59:42 python elk_logger.py 
+ 1026  shenjinqi 2019/07/10 16:58:35 sudo docker-compose up
+ 1027  shenjinqi 2019/07/10 17:00:27 ls
+ 1028  shenjinqi 2019/07/10 17:00:36 vi config/logstash.conf 
+ 1029  shenjinqi 2019/07/10 17:01:01 vi docker-compose.yml 
+ 1030  shenjinqi 2019/07/10 17:01:13 sudo docker-compose down
+ 1031  shenjinqi 2019/07/10 12:51:30 sudo docker-compose up
+ 1032  shenjinqi 2019/07/10 17:01:52 sudo docker-compose down
+ 1033  shenjinqi 2019/07/10 17:02:02 vi docker-compose.yml 
+ 1034  shenjinqi 2019/07/10 17:02:30 sudo docker-compose down
+ 1035  shenjinqi 2019/07/10 17:02:34 ls
+ 1036  shenjinqi 2019/07/10 17:02:45 more logstash.yml 
+ 1037  shenjinqi 2019/07/10 17:02:54 vi logstash.yml 
+ 1038  shenjinqi 2019/07/10 17:03:00 ls
+ 1039  shenjinqi 2019/07/10 17:03:05 vi logstash.conf 
+ 1040  shenjinqi 2019/07/10 17:04:30 ls
+ 1041  shenjinqi 2019/07/10 17:04:34 more docker-compose.yml 
+ 1042  shenjinqi 2019/07/10 17:04:03 vi docker-compose.yml 
+ 1043  shenjinqi 2019/07/10 17:04:58 ls
+ 1044  shenjinqi 2019/07/10 17:05:03 mkdif config
+ 1045  shenjinqi 2019/07/10 17:05:10 mkdir config
+ 1046  shenjinqi 2019/07/10 17:05:20 cp logstash.conf config/
+ 1047  shenjinqi 2019/07/10 17:05:26 cp logstash.yml  config/
+ 1048  shenjinqi 2019/07/10 17:05:38 sudo docker-compose down doc
+ 1049  shenjinqi 2019/07/10 17:05:42 history
+ 1050  shenjinqi 2019/07/10 17:07:56 ls
+ 1051  shenjinqi 2019/07/10 17:08:03 python elk_logger.py 
+ 1052  shenjinqi 2019/07/10 17:08:32 sudo docker ps
+ 1053  shenjinqi 2019/07/10 17:09:11 sudo docker logs 4240b402447a
+ 1054  shenjinqi 2019/07/10 17:09:36 sudo docker attach 4240b402447a
+ 1055  shenjinqi 2019/07/10 17:10:07 ls
+ 1056  shenjinqi 2019/07/10 17:10:15 rm log5000.txt 
+ 1057  shenjinqi 2019/07/10 17:10:26 sudo docker logs 4240b402447a>log5000.txt
+ 1058  shenjinqi 2019/07/10 17:10:31 sudo docker logs 4240b402447a>log5000.txt
+ 1059  shenjinqi 2019/07/10 17:10:41 more log5000.txt 
+ 1060  shenjinqi 2019/07/10 17:10:48 vi log5000.txt 
+ 1061  shenjinqi 2019/07/10 17:05:49 sudo docker-compose up
+ 1062  shenjinqi 2019/07/10 17:12:41 sudo docker-compose down 
+ 1063  shenjinqi 2019/07/10 17:12:54 vi config/logstash.conf 
+ 1064  shenjinqi 2019/07/10 17:13:22 sudo docker ps
+ 1065  shenjinqi 2019/07/10 17:14:39 python elk_logger.py 
+ 1066  shenjinqi 2019/07/10 17:14:40 python elk_logger.py 
+ 1067  shenjinqi 2019/07/10 17:13:31 sudo docker attach 4eccb76e94dd
+ 1068  shenjinqi 2019/07/10 17:13:07 sudo docker-compose up
+ 1069  shenjinqi 2019/07/10 17:15:43 sudo docker-compose down
+ 1070  shenjinqi 2019/07/10 17:15:47 ls
+ 1071  shenjinqi 2019/07/10 17:15:53 vi docker-compose.yml 
+ 1072  shenjinqi 2019/07/10 17:16:55 sudo docker ps
+ 1073  shenjinqi 2019/07/10 17:18:05 python elk_logger.py 
+ 1074  shenjinqi 2019/07/10 17:17:14 sudo docker attach 5a3ef0dc4cf2
+ 1075  shenjinqi 2019/07/10 17:16:39 sudo docker-compose up
+ 1076  shenjinqi 2019/07/10 17:19:39 sudo docker-compose down
+ 1077  shenjinqi 2019/07/10 17:19:46 more docker-compose.yml 
+ 1078  shenjinqi 2019/07/10 17:20:15 moe config/logstash.yml 
+ 1079  shenjinqi 2019/07/10 17:20:24 more config/logstash.yml 
+ 1080  shenjinqi 2019/07/10 17:20:28 more config/logstash.conf 
+ 1081  shenjinqi 2019/07/10 17:21:06 ls
+ 1082  shenjinqi 2019/07/10 17:21:13 more pipline/logstash.conf 
+ 1083  shenjinqi 2019/07/10 17:21:38 vi config/logstash.conf 
+ 1084  shenjinqi 2019/07/10 17:22:29 vi config/logstash.conf 
+ 1085  shenjinqi 2019/07/10 17:22:37 sudo docker-compose down
+ 1086  shenjinqi 2019/07/10 17:23:01 sudo docker ps
+ 1087  shenjinqi 2019/07/10 17:23:16 sudo docker ps
+ 1088  shenjinqi 2019/07/10 17:23:29 sudo docker attach 30c93f0da9a1
+ 1089  shenjinqi 2019/07/10 17:22:46 sudo docker-compose up
+ 1090  shenjinqi 2019/07/10 17:24:42 sudo docker-compose dwon
+ 1091  shenjinqi 2019/07/10 17:24:46 sudo docker-compose dwon
+ 1092  shenjinqi 2019/07/10 17:24:59 ls
+ 1093  shenjinqi 2019/07/10 17:25:09 sudo docker-compose down
+ 1094  shenjinqi 2019/07/10 17:25:29 vi docker-compose.yml 
+ 1095  shenjinqi 2019/07/10 17:26:32 sudo docker ps
+ 1096  shenjinqi 2019/07/10 17:26:45 sudo docker ps
+ 1097  shenjinqi 2019/07/10 17:27:13 python elk_logger.py 
+ 1098  shenjinqi 2019/07/10 17:27:25 python elk_logger.py 
+ 1099  shenjinqi 2019/07/10 17:26:58 sudo docker attach 21d737783ec9
+ 1100  shenjinqi 2019/07/10 17:26:21 sudo docker-compose up
+ 1101  shenjinqi 2019/07/10 17:27:54 sudo docker-compose down
+ 1102  shenjinqi 2019/07/10 17:28:12 vi config/logstash.conf 
+ 1103  shenjinqi 2019/07/10 17:28:51 sudo docker ps
+ 1104  shenjinqi 2019/07/10 17:28:53 sudo docker ps
+ 1105  shenjinqi 2019/07/10 17:28:54 sudo docker ps
+ 1106  shenjinqi 2019/07/10 17:28:58 sudo docker ps
+ 1107  shenjinqi 2019/07/10 17:29:49 python elk_logger.py 
+ 1108  shenjinqi 2019/07/10 17:31:29 python elk_logger.py 
+ 1109  shenjinqi 2019/07/10 17:29:06 sudo docker attach b64ceec87f7c
+ 1110  shenjinqi 2019/07/10 17:28:47 sudo docker-compose up
+ 1111  shenjinqi 2019/07/10 17:32:37 sudo docker-compose down
+ 1112  shenjinqi 2019/07/10 17:32:46 vi docker-compose.yml 
+ 1113  shenjinqi 2019/07/10 17:33:20 vi config/logstash.conf 
+ 1114  shenjinqi 2019/07/10 17:33:56 sudo docker ps
+ 1115  shenjinqi 2019/07/10 17:34:46 python elk_logger.py 
+ 1116  shenjinqi 2019/07/10 17:35:10 python elk_logger.py 
+ 1117  shenjinqi 2019/07/10 17:36:40 python elk_logger.py 
+ 1118  shenjinqi 2019/07/10 17:34:11 sudo docker attach f6e779fa69a0
+ 1119  shenjinqi 2019/07/10 17:33:47 sudo docker-compose up
+ 1120  shenjinqi 2019/07/10 17:37:02 sudo docker-compose down
+ 1121  shenjinqi 2019/07/10 17:37:08 git status
+ 1122  shenjinqi 2019/07/10 17:37:23 git add config/*
+ 1123  shenjinqi 2019/07/10 17:37:25 git status
+ 1124  shenjinqi 2019/07/10 17:37:53 git submit -m 'logstash ok by self docker image'
+ 1125  shenjinqi 2019/07/10 17:38:00 git submmit -m 'logstash ok by self docker image'
+ 1126  shenjinqi 2019/07/10 17:38:07 git
+ 1127  shenjinqi 2019/07/10 17:38:16 git commit -m 'logstash ok by self docker image'
+ 1128  shenjinqi 2019/07/10 17:38:24 history|grep git
+ 1129  shenjinqi 2019/07/10 17:38:39 git push -u origin master
+ 1130  shenjinqi 2019/07/10 17:39:53 git status
+ 1131  shenjinqi 2019/07/10 17:40:14 git add *
+ 1132  shenjinqi 2019/07/10 17:40:17 git status
+ 1133  shenjinqi 2019/07/10 17:40:31 git commit -m 'logstash ok by self docker image --missed changed file'
+ 1134  shenjinqi 2019/07/10 17:40:38 git push -u origin master
+ 1135  shenjinqi 2019/07/10 17:43:16 ls
+ 1136  shenjinqi 2019/07/10 17:44:04 more Dockerfile 
+ 1137  shenjinqi 2019/07/10 17:43:24 vi docker-compose.yml 
+ 1138  shenjinqi 2019/07/10 17:46:31 more config/logstash.yml 
+ 1139  shenjinqi 2019/07/10 17:46:35 more config/logstash.conf 
+ 1140  shenjinqi 2019/07/10 17:47:00 sudo docker ps
+ 1141  shenjinqi 2019/07/10 17:48:34 python elk_logger.py 
+ 1142  shenjinqi 2019/07/10 17:49:18 python elk_logger.py 
+ 1143  shenjinqi 2019/07/10 17:49:23 vi elk_logger.py 
+ 1144  shenjinqi 2019/07/10 17:49:55 python elk_logger.py 
+ 1145  shenjinqi 2019/07/10 17:50:39 vi elk_logger.py 
+ 1146  shenjinqi 2019/07/10 17:52:41 python elk_logger.py 
+ 1147  shenjinqi 2019/07/10 17:53:17 vi elk_logger.py 
+ 1148  shenjinqi 2019/07/10 17:53:47 python elk_logger.py 
+ 1149  shenjinqi 2019/07/10 17:47:09 sudo docker attach ec9516bc2ebf
+ 1150  shenjinqi 2019/07/10 17:46:49 sudo docker-compose up
+ 1151  shenjinqi 2019/07/10 17:54:45 sudo docker-compose down
+ 1152  shenjinqi 2019/07/10 17:54:49 ls
+ 1153  shenjinqi 2019/07/10 17:54:55 more config/logstash.conf 
+ 1154  shenjinqi 2019/07/10 17:55:15 more logstash.conf 
+ 1155  shenjinqi 2019/07/10 17:55:49 history
+ 1156  shenjinqi 2019/07/10 17:56:07 git status
+ 1157  shenjinqi 2019/07/10 17:56:15 git add *
+ 1158  shenjinqi 2019/07/10 17:56:18 git status
+ 1159  shenjinqi 2019/07/10 17:56:37 git commit -m 'logstash ok by standard docker image'
+ 1160  shenjinqi 2019/07/10 17:56:44 history
+ 1161  shenjinqi 2019/07/10 17:56:54 git push -u origin master
+ 1162  shenjinqi 2019/07/11 12:00:53 sudo docker ps
+ 1163  shenjinqi 2019/07/11 12:02:36 more docker-compose.yml 
+ 1164  shenjinqi 2019/07/11 12:12:52 vi docker-compose.yml 
+ 1165  shenjinqi 2019/07/11 12:14:08 ls
+ 1166  shenjinqi 2019/07/11 12:14:16 more config/logstash.conf 
+ 1167  shenjinqi 2019/07/11 12:14:30 sudo docker-compose up -d
+ 1168  shenjinqi 2019/07/11 12:15:37 python elk_logger.py 
+ 1169  shenjinqi 2019/07/11 12:15:59 vi elk_logger.py 
+ 1170  shenjinqi 2019/07/11 12:17:23 python elk_logger.py 
+ 1171  shenjinqi 2019/07/11 12:22:14 vi elk_logger.py 
+ 1172  shenjinqi 2019/07/11 12:22:54 python elk_logger.py 
+ 1173  shenjinqi 2019/07/11 12:23:28 vi elk_logger.py 
+ 1174  shenjinqi 2019/07/11 12:24:07 python elk_logger.py 
+ 1175  shenjinqi 2019/07/11 12:24:44 vi elk_logger.py 
+ 1176  shenjinqi 2019/07/11 12:29:03 python elk_logger.py 
+ 1177  shenjinqi 2019/07/11 12:29:12 vi elk_logger.py 
+ 1178  shenjinqi 2019/07/11 12:30:05 vi elk_logger.py 
+ 1179  shenjinqi 2019/07/11 12:30:18 python elk_logger.py 
+ 1180  shenjinqi 2019/07/11 12:39:14 pip install python-logstash
+ 1181  shenjinqi 2019/07/11 12:40:32 git clone https://github.com/vklochan/python-logstash.git
+ 1182  shenjinqi 2019/07/11 12:40:36 ls
+ 1183  shenjinqi 2019/07/11 12:41:00 vi python-logstash/logstash/formatter.py 
+ 1184  shenjinqi 2019/07/11 12:42:45 python python-logstash/setup.py install
+ 1185  shenjinqi 2019/07/11 12:42:54 ls
+ 1186  shenjinqi 2019/07/11 12:42:57 cd python-logstash/
+ 1187  shenjinqi 2019/07/11 12:43:07 sudo python setup.py install
+ 1188  shenjinqi 2019/07/11 12:43:24 python ../elk_logger.py 
+ 1189  shenjinqi 2019/07/11 12:44:46 vi python-logstash/logstash/formatter.py 
+ 1190  shenjinqi 2019/07/11 12:44:56 vi logstash/formatter.py 
+ 1191  shenjinqi 2019/07/11 12:45:51 sudo python setup.py install
+ 1192  shenjinqi 2019/07/11 12:45:59 vi logstash/formatter.py 
+ 1193  shenjinqi 2019/07/11 12:46:21 sudo python setup.py install
+ 1194  shenjinqi 2019/07/11 12:46:26 python ../elk_logger.py 
+ 1195  shenjinqi 2019/07/11 12:48:41 vi ../elk_logger.py 
+ 1196  shenjinqi 2019/07/11 12:49:20 vi ../elk_logger.py 
+ 1197  shenjinqi 2019/07/11 12:49:35 python ../elk_logger.py 
+ 1198  shenjinqi 2019/07/11 12:49:58 vi ../elk_logger.py 
+ 1199  shenjinqi 2019/07/11 12:50:22 python ../elk_logger.py 
+ 1200  shenjinqi 2019/07/11 12:50:59 vi ../elk_logger.py 
+ 1201  shenjinqi 2019/07/11 12:51:34 python ../elk_logger.py 
+ 1202  shenjinqi 2019/07/11 12:52:08 vi logstash/formatter.py 
+ 1203  shenjinqi 2019/07/11 12:53:48 vi logstash/formatter.py 
+ 1204  shenjinqi 2019/07/11 12:54:32 sudo python setup.py install
+ 1205  shenjinqi 2019/07/11 12:54:36 python ../elk_logger.py 
+ 1206  shenjinqi 2019/07/11 12:54:45 vi logstash/formatter.py 
+ 1207  shenjinqi 2019/07/11 12:57:12 python ../elk_logger.py 
+ 1208  shenjinqi 2019/07/11 12:57:21 vi ../elk_logger.py 
+ 1209  shenjinqi 2019/07/11 12:57:38 python ../elk_logger.py 
+ 1210  shenjinqi 2019/07/11 13:01:02 vi ../elk_logger.py 
+ 1211  shenjinqi 2019/07/11 12:56:18 vi config/logstash.conf 
+ 1212  shenjinqi 2019/07/11 13:03:40 sudo docker-compose down
+ 1213  shenjinqi 2019/07/11 13:03:51 sudo docker-compose up -d
+ 1214  shenjinqi 2019/07/11 13:04:19 vi logstash/formatter.py 
+ 1215  shenjinqi 2019/07/11 13:05:05 sudo python setup.py install
+ 1216  shenjinqi 2019/07/11 13:05:11 python ../elk_logger.py 
+ 1217  shenjinqi 2019/07/11 13:06:02 sudo docker ps
+ 1218  shenjinqi 2019/07/11 13:06:35 sudo docker ps
+ 1219  shenjinqi 2019/07/11 13:06:50 sudo docker attach ce69d9878a73
+ 1220  shenjinqi 2019/07/11 13:07:24 sudo docker-compose down
+ 1221  shenjinqi 2019/07/11 13:07:38 sudo docker-compose down
+ 1222  shenjinqi 2019/07/11 13:07:44 sudo docker-compose up -d
+ 1223  shenjinqi 2019/07/11 13:07:50 sudo docker ps
+ 1224  shenjinqi 2019/07/11 13:08:51 python ../elk_logger.py 
+ 1225  shenjinqi 2019/07/11 13:09:13 vi ../elk_logger.py 
+ 1226  shenjinqi 2019/07/11 13:09:23 python ../elk_logger.py 
+ 1227  shenjinqi 2019/07/11 13:10:14 vi logstash/formatter.py 
+ 1228  shenjinqi 2019/07/11 13:10:37 sudo python setup.py install
+ 1229  shenjinqi 2019/07/11 13:10:42 python ../elk_logger.py 
+ 1230  shenjinqi 2019/07/11 13:10:52 vi logstash/formatter.py 
+ 1231  shenjinqi 2019/07/11 13:11:01 vi ../elk_logger.py 
+ 1232  shenjinqi 2019/07/11 13:08:00 sudo docker attach c22808baaae9
+ 1233  shenjinqi 2019/07/11 13:11:34 sudo docker-compose down
+ 1234  shenjinqi 2019/07/11 13:11:40 history
+ 1235  shenjinqi 2019/07/11 13:11:46 git add *
+ 1236  shenjinqi 2019/07/11 13:11:50 git status
+ 1237  shenjinqi 2019/07/11 13:12:29 git submit -m 'fix logstash json parse issue, fix es store issue'
+ 1238  shenjinqi 2019/07/11 13:12:39 git commit -m 'fix logstash json parse issue, fix es store issue'
+ 1239  shenjinqi 2019/07/11 13:12:48 git push -u origin master
+ 1240  shenjinqi 2019/07/11 13:13:05 git push -u origin master
+ 1241  shenjinqi 2019/07/23 19:33:19 python
+ 1242  shenjinqi 2019/07/23 19:35:44 ls
+ 1243  shenjinqi 2019/07/23 19:35:47 cd ..
+ 1244  shenjinqi 2019/07/23 19:35:48 ls
+ 1245  shenjinqi 2019/07/23 19:35:52 pwd
+ 1246  shenjinqi 2019/07/23 19:36:01 mkdir data
+ 1247  shenjinqi 2019/07/23 19:36:03 cd data/
+ 1248  shenjinqi 2019/07/23 19:36:36 copy D:\Users\jqshen\Desktop\personal .
+ 1249  shenjinqi 2019/07/23 19:41:55 scp
+ 1250  shenjinqi 2019/07/23 19:33:37 pip install pandas
+ 1251  shenjinqi 2019/07/23 20:03:35 sudo apt-get install http-server
+ 1252  shenjinqi 2019/07/23 20:04:55 python -m SimpleHTTPServer 7777
+ 1253  shenjinqi 2019/07/23 20:05:25 cd ..
+ 1254  shenjinqi 2019/07/23 19:43:02 sudo pip install pandas
+ 1255  shenjinqi 2019/07/24 10:27:58 sudo pip install pandas
+ 1256  shenjinqi 2019/07/24 10:30:59 cd ~
+ 1257  shenjinqi 2019/07/24 10:31:00 ls
+ 1258  shenjinqi 2019/07/24 10:31:07 mkdir .pip
+ 1259  shenjinqi 2019/07/24 10:31:10 cd .pip/
+ 1260  shenjinqi 2019/07/24 10:31:16 vi pip.conf
+ 1261  shenjinqi 2019/07/24 10:32:13 sudo pip install pandas
+ 1262  shenjinqi 2019/07/24 10:33:19 sudo pip install jupyter
+ 1263  shenjinqi 2019/07/24 13:23:52 cd ..
+ 1264  shenjinqi 2019/07/24 13:23:53 ls
+ 1265  shenjinqi 2019/07/24 13:23:55 cd work/
+ 1266  shenjinqi 2019/07/24 13:23:57 ls
+ 1267  shenjinqi 2019/07/24 13:24:04 mkdir jupyter
+ 1268  shenjinqi 2019/07/24 13:24:08 cd jupyter/
+ 1269  shenjinqi 2019/07/24 13:24:26 cp ../ELK/docker-compose.yml .
+ 1270  shenjinqi 2019/07/24 13:24:28 ls
+ 1271  shenjinqi 2019/07/24 13:24:32 vi docker-compose.yml 
+ 1272  shenjinqi 2019/07/24 13:26:50 sudo docker-compose 
+ 1273  shenjinqi 2019/07/24 13:27:06 sudo docker-compose up -d
+ 1274  shenjinqi 2019/07/23 20:05:27 python -m SimpleHTTPServer 7777
+ 1275  shenjinqi 2019/07/24 18:01:35 history
+ 1276  shenjinqi 2019/07/24 18:01:47 sudo docker ps
+ 1277  shenjinqi 2019/07/24 18:02:07 sudo docker attach 41d9cac78586
+ 1278  shenjinqi 2019/07/24 18:04:57 sudo docker-compose down
+ 1279  shenjinqi 2019/07/24 18:05:09 sudo docker-compose up
+ 1280  shenjinqi 2019/07/24 18:06:29 sudo docker-compose down
+ 1281  shenjinqi 2019/07/24 18:06:34 sudo docker-compose up -d
+ 1282  shenjinqi 2019/07/24 18:06:40 sudo docker ps
+ 1283  shenjinqi 2019/07/24 18:06:47 sudo docker log 9c9dd766d199
+ 1284  shenjinqi 2019/07/24 18:06:51 sudo docker logs 9c9dd766d199
+ 1285  shenjinqi 2019/07/24 18:07:07 vi docker-compose.yml 
+ 1286  shenjinqi 2019/07/24 18:10:04 mkdir work
+ 1287  shenjinqi 2019/07/25 10:36:12 more ../ELK/docker-compose.yml 
+ 1288  shenjinqi 2019/07/25 10:36:25 vi docker-compose.yml 
+ 1289  shenjinqi 2019/07/25 10:38:07 ls
+ 1290  shenjinqi 2019/07/25 10:38:15 history
+ 1291  shenjinqi 2019/07/25 10:38:21 sudo docker-compose down
+ 1292  shenjinqi 2019/07/25 10:38:38 sudo docker-compose up -d
+ 1293  shenjinqi 2019/07/25 10:38:44 sudo docker ps
+ 1294  shenjinqi 2019/07/25 10:38:58 sudo docker logs a0b236def7f4
+ 1295  shenjinqi 2019/07/25 10:39:41 ls
+ 1296  shenjinqi 2019/07/25 10:39:47 ls
+ 1297  shenjinqi 2019/07/25 10:39:58 sudo chmod 777 work/
+ 1298  shenjinqi 2019/07/25 10:40:18 ls work/
+ 1299  shenjinqi 2019/07/25 10:43:42 cd ..
+ 1300  shenjinqi 2019/07/25 10:43:43 ls
+ 1301  shenjinqi 2019/07/25 10:43:46 cd jupyter/
+ 1302  shenjinqi 2019/07/25 10:43:47 ls
+ 1303  shenjinqi 2019/07/25 10:43:59 history|grep git
+ 1304  shenjinqi 2019/07/26 09:39:02 cd ..
+ 1305  shenjinqi 2019/07/26 09:39:03 ls
+ 1306  shenjinqi 2019/07/26 09:39:05 cd vue
+ 1307  shenjinqi 2019/07/26 09:39:10 mkdir vue
+ 1308  shenjinqi 2019/07/26 09:39:12 cd vue/
+ 1309  shenjinqi 2019/07/26 09:39:17 git clone https://github.com/bobbyahines/docker-vuepress.git
+ 1310  shenjinqi 2019/07/26 09:39:22 ls
+ 1311  shenjinqi 2019/07/26 09:39:29 cd docker-vuepress/
+ 1312  shenjinqi 2019/07/26 09:39:30 ls
+ 1313  shenjinqi 2019/07/26 09:39:36 vi docker-vuepress.sh 
+ 1314  shenjinqi 2019/07/26 09:39:55 ./docker-vuepress.sh 
+ 1315  shenjinqi 2019/07/26 09:40:19 sudo ./docker-vuepress.sh 
+ 1316  shenjinqi 2019/08/05 09:20:53 sudo docket ps
+ 1317  shenjinqi 2019/08/05 09:21:01 sudo docker ps
+ 1318  shenjinqi 2019/08/05 09:21:07 ls
+ 1319  shenjinqi 2019/08/05 09:21:09 cd work/
+ 1320  shenjinqi 2019/08/05 09:21:10 ls
+ 1321  shenjinqi 2019/08/05 09:21:14 cd vue/
+ 1322  shenjinqi 2019/08/05 09:21:14 ls
+ 1323  shenjinqi 2019/08/05 09:21:22 more docker-vuepress/
+ 1324  shenjinqi 2019/08/05 09:21:36 cd docker-vuepress/
+ 1325  shenjinqi 2019/08/05 09:21:37 ls
+ 1326  shenjinqi 2019/08/05 09:21:42 history
+ 1327  shenjinqi 2019/08/05 09:21:48 ls
+ 1328  shenjinqi 2019/08/05 09:22:11 sudo docker-compose up -d
+ 1329  shenjinqi 2019/08/05 09:22:42 more docker-compose.yml 
+ 1330  shenjinqi 2019/08/05 09:24:24 ls
+ 1331  shenjinqi 2019/08/05 09:24:35 more README.md 
+ 1332  shenjinqi 2019/08/05 09:25:01 ls
+ 1333  shenjinqi 2019/08/05 09:25:05 ls doc
+ 1334  shenjinqi 2019/08/05 09:25:10 ls -l
+ 1335  shenjinqi 2019/08/05 09:25:16 more doc
+ 1336  shenjinqi 2019/08/05 09:25:18 more docs/
+ 1337  shenjinqi 2019/08/05 09:25:23 more docs/ls docs
+ 1338  shenjinqi 2019/08/05 09:25:30 cd docs/
+ 1339  shenjinqi 2019/08/05 09:25:31 ls
+ 1340  shenjinqi 2019/08/05 09:25:38 cd guide/
+ 1341  shenjinqi 2019/08/05 09:25:39 ls
+ 1342  shenjinqi 2019/08/05 09:25:43 more README.md 
+ 1343  shenjinqi 2019/08/05 09:25:53 ls
+ 1344  shenjinqi 2019/08/05 09:25:58 cd ..
+ 1345  shenjinqi 2019/08/05 09:25:59 cd ..
+ 1346  shenjinqi 2019/08/05 09:26:00 ls
+ 1347  shenjinqi 2019/08/05 09:26:05 more docker-compose.yml 
+ 1348  shenjinqi 2019/08/05 09:43:28 ls
+ 1349  shenjinqi 2019/08/05 09:43:35 more docker-vuepress.sh 
+ 1350  shenjinqi 2019/08/05 09:49:52 history
+ 1351  shenjinqi 2019/08/05 09:51:27 history> ~/work/jupyter/work/his.txt

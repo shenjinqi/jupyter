@@ -1,0 +1,11 @@
+#author shenjinqi
+# https://github.com/maxyermayank/docker-compose-elasticsearch-kibana/blob/master/docker-compose.yml#L12
+version: "3" #版本号
+services:
+  jupyter:
+    image: jupyter/scipy-notebook
+    container_name: jupyter
+    ports:
+      - 8888:8888
+    volumes:
+      - ./work:/home/jovyan/work
